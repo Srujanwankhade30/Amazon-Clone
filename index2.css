@@ -1,0 +1,12 @@
+/* Basic styles for centering the logo */
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.logo-container img {
+    width: 150px; /* Set the fixed width */
+    height: 50px; /* Set the fixed height */
+}
